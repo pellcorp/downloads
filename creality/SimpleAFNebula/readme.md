@@ -16,7 +16,7 @@ Initially support will be limited to:
 
 - Pre-rooted
 - The UI is replaced with a minimal UI just to setup WIFI, the bootstrap app is using the same functionality as the Wifi Panel from Grumpyscreen
-- The emergency factory reset <https://pellcorp.github.io/creality-wiki/emergency_factory_reset/>
+- Emergency factory reset <https://pellcorp.github.io/creality-wiki/emergency_factory_reset/>
 - Configure wifi via usb <https://pellcorp.github.io/creality-wiki/configure_wifi/#configure-wifi-via-usb>
 
 ## Gotchas
