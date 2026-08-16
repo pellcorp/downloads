@@ -1,7 +1,7 @@
 # Simple AF Nebula Base Firmware
 
-This firmware is preparation for future support for running Simple AF on a Nebula pad with various Ender 3 printers, but without having to go through the onerous setup
-process on the stock Nebula firmware.
+This firmware is preparation for planned support for running Simple AF on a Nebula pad with various Ender 3 printers, but without having to go through the onerous setup
+process on the stock Nebula firmware, it will not be possible to install Simple AF on the stock Nebula firmware, flashing this firmware will be a required step.
 
 ## What Printers?
 
@@ -21,7 +21,7 @@ Initially support will be limited to:
 
 ## Gotchas
 
-This firmware does NOT have klipper, the expecation in the future is that users planning to take advantage of Simple AF on a Nebula Pad will flash their
+This firmware does NOT have klipper, the expectation is that users planning to take advantage of Simple AF on a Nebula Pad will flash their
 Nebula pad with this base firmware and then login via ssh and setup Simple AF.
 
 ## How do I login?
