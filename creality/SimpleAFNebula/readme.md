@@ -1,7 +1,16 @@
 # Simple AF Nebula Base Firmware
 
-This firmware is preparation for future support for running Simple AF on a Nebula pad with various Ender 3 machines, but without having to go through the onerous setup
+This firmware is preparation for future support for running Simple AF on a Nebula pad with various Ender 3 printers, but without having to go through the onerous setup
 process on the stock Nebula firmware.
+
+## What Printers?
+
+Initially support will be limited to:
+
+- Ender 3 V3 SE 
+- Ender 3 V1
+- Ender 3 V1 Pro
+- Ender 3 V2 
 
 ## Features
 
