@@ -13,6 +13,7 @@ tar -zxf /usr/data/mjpg-streamer.tar.gz -C /usr/data/
 wget -q --no-check-certificate "https://raw.githubusercontent.com/pellcorp/downloads/refs/heads/main/creality/helperscript/mjpg_streamer/S50webcam" -O /etc/init.d/S50usb_camera
 chmod 777 /etc/init.d/S50usb_camera
 sync
+/etc/init.d/S50usb_camera start
 ```
 
 Please note I don't have helper script anymore, but I believe this is correct.
